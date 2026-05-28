@@ -77,7 +77,7 @@ me = SriCharan()
 
 <div align="center">
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charn1033&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
 
 </div>
 
