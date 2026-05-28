@@ -67,9 +67,9 @@ me = SriCharan()
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Charan1033&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=00000000"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Charan1033&theme=tokyonight&hide_border=true&background=00000000"/>
 
 </div>
 
