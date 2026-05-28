@@ -87,7 +87,7 @@ me = SriCharan()
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&bg_color=00000000"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Charan1033&theme=tokyo-night&hide_border=true&bg_color=00000000"/>
 
 </div>
 
@@ -97,7 +97,7 @@ me = SriCharan()
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Charan1033/Charan1033/output/snake.svg" alt="Snake animation" />
 
 </div>
 
