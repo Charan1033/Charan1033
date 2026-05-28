@@ -73,13 +73,6 @@ me = SriCharan()
 
 </div>
 
----
-
-<div align="center">
-
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charn1033&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
-
-</div>
 
 ---
 
@@ -126,14 +119,6 @@ Building:
 <a href="https://github.com/Charan1033">
 <img src="https://img.shields.io/badge/GitHub-0f0f0f?style=for-the-badge&logo=github&logoColor=00ffff"/>
 </a>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=00ffff&style=for-the-badge"/>
 
 </div>
 
