@@ -93,16 +93,6 @@ me = SriCharan()
 
 ---
 
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Charan1033/Charan1033/output/snake.svg" alt="Snake animation" />
-
-</div>
-
----
-
 # 🎯 Current Focus
 
 ```yaml
